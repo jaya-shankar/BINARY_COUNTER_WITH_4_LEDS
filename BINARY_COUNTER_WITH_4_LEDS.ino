@@ -4,7 +4,7 @@ int pir = 8;
 int pigr = 9;
 int pib = 10;
 int ht = 500;
-int lht = 1000;
+int lht = 10000;
 void setup() {
   // put your setup code here, to run once:
 pinMode(piw, OUTPUT);
